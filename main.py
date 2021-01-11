@@ -9,4 +9,4 @@ print("Sveika, "+"pasaule!")
 print("Andrejs Timčuks! "*5)
 print(365*24*60*60)
 print(0.1+0.2-0.3)
-
+print()
