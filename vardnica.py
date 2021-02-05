@@ -27,3 +27,24 @@ new_dict["k3"]=300
 print(new_dict)
 new_dict["k1"]="simts"
 print(new_dict)
+
+#var piešķirt esošai atslegai jaunu vērtibu
+new_dict["k1"]="simts"
+print(new_dict)
+
+#vardnicu metodes
+print(new_dict.keys()) #izdruka visas atslegas
+print(new_dict.values()) #izdruka vērtibas
+print(new_dict.items()) #izdruka pārus
+vertibu_list=list(new_dict.values())
+print(vertibu_list)
+
+#get
+print(new_dict.get("k2"))
+print(new_dict)
+#pop
+print(new_dict.pop("k2"))
+print(new_dict)
+
+new_dict.clear()
+print(new_dict)
