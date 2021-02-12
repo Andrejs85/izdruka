@@ -23,7 +23,7 @@ print(my_list)
 #my_tup[0]="viens"
 print(my_tup)
 
-#sets - nesakartota unikalu pbjektu kopa
+#sets - nesakartota unikalu objektu kopa
 my_set=set()
 print(my_set)
 my_set.add(1)

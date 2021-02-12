@@ -1,4 +1,4 @@
-"""
+
 vards=input("Kā tevi sauc? ")
 print("Labdien, " +vards)
 
@@ -28,7 +28,7 @@ print("Sveika, \tpasaule!") #drukā ar tabulācijas atkāpi
 #String garums-len()
 print(len("sveiki"))
 print(len("Ko tu domā?"))
-"""
+
 
 # [sākums:beigas:solis]
 myString="Sveiki, pasaule"
